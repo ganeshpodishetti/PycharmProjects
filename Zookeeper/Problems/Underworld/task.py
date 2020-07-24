@@ -1,0 +1,1 @@
+# the variable `coin` is already defined
